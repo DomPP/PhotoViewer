@@ -79,5 +79,5 @@
 
 - (NSInteger)currentPhotoIndex;
 - (void)moveToPhotoAtIndex:(NSInteger)index animated:(BOOL)animated;
-
+- (void)setBarsHidden:(BOOL)hidden animated:(BOOL)animated;
 @end
